@@ -1,7 +1,7 @@
 <p align="center">
   <img src="doc/demo/logo.png" width="80px" />
 </p>
-
+</p>
 <div align="center">
 <h1>Cloud Mail</h1>
 </div>
